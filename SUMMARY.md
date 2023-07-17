@@ -1,4 +1,5 @@
 * 文档指南
+  * [测试一下](guide/test.md)
   * [快速部署](guide/quick-deploy.md)
   * [使用技巧](guide/use-tips.md)
 * 设计模式
